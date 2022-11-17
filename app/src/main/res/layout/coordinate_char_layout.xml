@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="horizontal"
+    tools:showIn="@layout/activity_game">
+
+    <TextView
+        style="@style/field_title"
+        android:text="a" />
+
+    <TextView
+        style="@style/field_title"
+        android:text="b" />
+
+    <TextView
+        style="@style/field_title"
+        android:text="c" />
+
+    <TextView
+        style="@style/field_title"
+        android:text="d" />
+
+    <TextView
+        style="@style/field_title"
+        android:text="e" />
+
+    <TextView
+        style="@style/field_title"
+        android:text="f" />
+
+    <TextView
+        style="@style/field_title"
+        android:text="g" />
+
+    <TextView
+        style="@style/field_title"
+        android:text="h" />
+
+    <TextView
+        style="@style/field_title"
+        android:text="i" />
+
+    <TextView
+        style="@style/field_title"
+        android:text="j" />
+
+</LinearLayout>
